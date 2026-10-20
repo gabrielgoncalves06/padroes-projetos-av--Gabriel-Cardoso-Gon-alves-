@@ -12,8 +12,8 @@ public class Matricula {
 
         System.out.println("---+_+_+- RELATORIO DA MATRICULA -_+_+-_+---");
         System.out.println("Documento fiscal: " + documento.descricao());
-        System.out.println("Pagamento       : " + pagamento.descricao());
         System.out.println("Comprovante     : " + comprovante.descricao());
+        System.out.println("Pagamento       : " + pagamento.descricao());
         System.out.println();
     }
 }
