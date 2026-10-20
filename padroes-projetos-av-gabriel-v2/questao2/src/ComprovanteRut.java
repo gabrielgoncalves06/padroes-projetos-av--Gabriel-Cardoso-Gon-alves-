@@ -4,6 +4,6 @@ public class ComprovanteRut implements Comprovante {
 
     @Override
     public String descricao() {
-        return "Comprovante de matricula - aluno " + aluno + " identificado por RUT";
+         return "Comprovante de matricula - aluno " + aluno + " identificado por RUT";
     }
 }
