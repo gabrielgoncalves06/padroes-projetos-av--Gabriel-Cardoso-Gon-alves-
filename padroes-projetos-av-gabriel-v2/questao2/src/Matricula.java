@@ -1,4 +1,3 @@
-//  sem if/switch e sem new de classe de pais
 public class Matricula {
     private FabricaPais fabrica;
 
