@@ -1,4 +1,3 @@
-// Brasil NFS-e com ISS de 5%
 public class NFSe implements DocumentoFiscal {
     private double valor;
     public NFSe(double valor) { this.valor = valor; }
